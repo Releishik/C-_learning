@@ -1,0 +1,5 @@
+G:\Projects\DCT_2_8\DCT_2\bin\Debug\DCT_2.dll
+G:\Projects\DCT_2_8\DCT_2\bin\Debug\DCT_2.pdb
+G:\Projects\DCT_2_8\DCT_2\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\DCT_2_8\DCT_2\obj\Debug\DCT_2.dll
+G:\Projects\DCT_2_8\DCT_2\obj\Debug\DCT_2.pdb
